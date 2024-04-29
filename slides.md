@@ -48,10 +48,15 @@ hideInToc: true
 ---
 # Wat codeer ik?
 
-<ul>
-    <li>Lezen</li>
-</ul>
+<v-clicks>
 
+- Deze presentatie
+- Galseez
+- Oefen projecten
+- Ideeën die ik heb
+- Schoolopdrachten
+
+</v-clicks>
 ---
 ---
 # Wil ik daar wat later mee gaan doen?
