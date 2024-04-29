@@ -61,8 +61,14 @@ hideInToc: true
 ---
 # Wil ik daar wat later mee gaan doen?
 
-<ul>
-    <li>Lezen</li>
-</ul>
+<v-clicks>
 
----
+- Backend
+- DevOps
+- Technische kant van frontend
+- Cloud engineer
+
+</v-clicks>
+<!-- 
+Devops levert CI/CD, versiebeheer, infrastructuur als code, configuratie van de codeer omgeving etc...
+-->
