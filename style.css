@@ -1,3 +1,10 @@
 a {
     border: none !important;
 }
+.idkEither {
+    position: absolute;
+    width: 400px;
+    top: 5rem;
+    right: 4rem;
+    rotate: 15deg;
+}

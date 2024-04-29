@@ -34,9 +34,16 @@ hideInToc: true
 # Talen
 
 <ul>
-    <li>Lezen</li>
+    <li>Rust</li>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>C#</li>
+    <li>PHP</li>
 </ul>
-
+<img v-click v-motion
+  :initial="{ y: -50 }"
+  :enter="{ y: 0 }"
+   src="Shrug.png" class="idkEither"/>
 ---
 ---
 # Wat codeer ik?
@@ -47,7 +54,7 @@ hideInToc: true
 
 ---
 ---
-# Wat wil ik later gaan doen 
+# Wil ik daar wat later mee gaan doen?
 
 <ul>
     <li>Lezen</li>
