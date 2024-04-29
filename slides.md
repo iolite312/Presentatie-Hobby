@@ -3,7 +3,7 @@ theme: default
 background: ./backgrounds/p1.jpg
 title: Hobby presentatie
 fonts:
-    sans: Exo 2
+  sans: Exo 2
 transition: slide-left
 mdc: true
 class: text-center
@@ -72,3 +72,9 @@ hideInToc: true
 <!-- 
 Devops levert CI/CD, versiebeheer, infrastructuur als code, configuratie van de codeer omgeving etc...
 -->
+---
+layout: image
+image: ./backgrounds/p5.jpg
+---
+
+# Vragen?
