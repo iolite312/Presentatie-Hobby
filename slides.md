@@ -31,7 +31,7 @@ hideInToc: true
 <Toc />
 ---
 ---
-# Wat codeer ik?
+# Talen
 
 <ul>
     <li>Lezen</li>
@@ -39,7 +39,7 @@ hideInToc: true
 
 ---
 ---
-# Talen
+# Wat codeer ik?
 
 <ul>
     <li>Lezen</li>
