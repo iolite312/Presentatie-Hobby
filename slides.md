@@ -31,14 +31,14 @@ hideInToc: true
 <Toc />
 ---
 ---
-# Manieren van lezen
+# Wat codeer ik?
 
 <ul>
     <li>Lezen</li>
 </ul>
 
 ------
-# Genres
+# Talen
 
 <ul>
     <li>Lezen</li>
@@ -46,7 +46,7 @@ hideInToc: true
 
 ---
 ---
-# Wat 
+# Wat wil ik later gaan doen 
 
 <ul>
     <li>Lezen</li>
