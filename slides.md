@@ -43,7 +43,7 @@ hideInToc: true
 <img v-click v-motion
   :initial="{ y: -50 }"
   :enter="{ y: 0 }"
-   src="Shrug.png" class="idkEither"/>
+   src="shrug.png" class="idkEither"/>
 ---
 ---
 # Wat codeer ik?
